@@ -13,7 +13,7 @@ Scrum Masters should identify all documents required for this sprint. These are 
 ### Documents produced or in process   
 
 ##### Sales Reps  
-[10 Patient Registration Story](https://github.com/muzammilahmed/myrepositry/wiki/10-Patient-Registration-Story) :ok:  
+[10 Patient Registration Story](https://github.com/muzammilahmed/myrepositry/wiki/10---Patient-Registration-Story) :ok:  
 [20-Sales Rep collection Schema](https://github.com/muzammilahmed/myrepositry/wiki/20-Patient-Registration-Schema) :ok:       
 [30 Module Prototype and Design](muzammilahmed/myrepositry/wiki/20-Patient-Registration-prototype) :ok:  
 [40-Module Restful and Script Design](https://github.com/primac/NESQ/wiki/40-Sales-Reps-Services-and-Scripts-Design) :ok:      
