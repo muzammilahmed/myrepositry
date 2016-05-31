@@ -13,8 +13,8 @@ Scrum Masters should identify all documents required for this sprint. These are 
 ### Documents produced or in process   
 
 ##### Sales Reps  
-[10 Module Story](https://github.com//muzammilahmed/myrepositry/wiki/10-Sales-Rep-Story) :ok:  
-[20-Sales Rep collection Schema](https://github.com/primac/NESQ/blob/development/khadim-structure/api/models/salesrep.js) :ok:       
+[10 Module Story](https://github.com/muzammilahmed/myrepositry/wiki/10-Sales-Rep-Story) :ok:  
+[20-Sales Rep collection Schema](https://github.com/muzammilahmed/myrepositry/wiki/20-Schema) :ok:       
 [30 Module Prototype and Design](30-Salesrep-Prototype) :ok:  
 [40-Module Restful and Script Design](https://github.com/primac/NESQ/wiki/40-Sales-Reps-Services-and-Scripts-Design) :ok:      
 [55-Module Test Cases](https://github.com/primac/NESQ/wiki/55-Sales-Reps-Test-Cases) :construction:   
